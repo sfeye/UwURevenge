@@ -12,6 +12,7 @@ public class ShieldGen : Entity
     void Start()
     {
         parentArray.shields.Add(gameObject);
+        currHealth = maxHealth;
         Debug.Log("Added");
     }
 

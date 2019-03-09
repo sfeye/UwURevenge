@@ -13,6 +13,7 @@ public class ProjectileMovement : MonoBehaviour {
 	{
 		rb = GetComponent<Rigidbody>();
 		Physics.IgnoreLayerCollision(LayerMask.NameToLayer(layerToIgnore),LayerMask.NameToLayer(layerToIgnore));
+		Physics.IgnoreLayerCollision(LayerMask.NameToLayer(layerToIgnore),LayerMask.NameToLayer("Shield"));
 		Move();
 	}
 	
