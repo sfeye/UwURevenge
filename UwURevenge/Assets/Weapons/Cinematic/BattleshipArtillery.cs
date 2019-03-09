@@ -9,6 +9,7 @@ public class BattleshipArtillery : MonoBehaviour
     public GameObject onHitEffect;
     float timeToFire;
     float deltaTimeToFire;
+    float laserMultiplier = 2;
     
     void Start()
     {
@@ -26,6 +27,17 @@ public class BattleshipArtillery : MonoBehaviour
             StartCoroutine("FireLaser");
             timeToFire = Random.Range(5f,10f);
             deltaTimeToFire = 0;
+        }
+
+        if(laser.enabled)
+        {
+            laserMultiplier += 5f*Time.deltaTime;
+            laser.widthMultiplier = laserMultiplier;
+
+        }
+        else
+        {
+            laserMultiplier = 0f;
         }
     }
 
