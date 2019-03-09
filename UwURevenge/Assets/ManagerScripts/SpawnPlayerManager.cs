@@ -26,9 +26,9 @@ public class SpawnPlayerManager : MonoBehaviour
     void OnEnable()
     {
         SpawnPlayer();
-        SetMainCameraPosition();
+        //SetMainCameraPosition();
         SetMainCameraTarget();
-        SetSquadronPosition();
+        //SetSquadronPosition();
         SetSquadronTarget();
     }
 
