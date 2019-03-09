@@ -7804,7 +7804,7 @@ MonoBehaviour:
   sizeX: 2500
   sizeY: 2500
   sizeZ: 2500
-  density: 1000
+  density: 300
   rocks:
   - {fileID: 6529143596919409042, guid: ddfdf235dbfc29340ad439896b9f1770, type: 3}
   - {fileID: 8755598982733403634, guid: cd4770dacd0b76144bb4af0fc14ab651, type: 3}

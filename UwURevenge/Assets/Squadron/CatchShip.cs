@@ -14,7 +14,7 @@ public class CatchShip : MonoBehaviour {
 
 	void OnTriggerEnter(Collider other)
 	{
-		if(other.tag == "player")
+		if(other.tag == "squadron")
 		{
 			Debug.Log(other.name);
 			GameObject shipToAdd = other.gameObject;
