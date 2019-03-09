@@ -1,0 +1,196 @@
+fileFormatVersion: 2
+guid: 45a633d67af117f4ea98488e21c747d0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Big Gun.001
+    100004: Big Gun.002
+    100006: Big Gun.003
+    100008: Bridge-1.002
+    100010: Build-up Block.001
+    100012: Curve Wing.001
+    100014: Curve Wing.002
+    100016: Curve Wing.003
+    100018: Curve Wing.004
+    100020: Fore-Bridge.001
+    100022: hull.hangar.001
+    100024: hull.large.001
+    100026: hull.large.002
+    100028: hull.long.001
+    100030: lifePreserver.001
+    100032: lifePreserver.002
+    100034: lifePreserver.003
+    100036: lifePreserver.004
+    100038: Trap-Engine.001
+    100040: Trap-Engine.002
+    400000: //RootNode
+    400002: Big Gun.001
+    400004: Big Gun.002
+    400006: Big Gun.003
+    400008: Bridge-1.002
+    400010: Build-up Block.001
+    400012: Curve Wing.001
+    400014: Curve Wing.002
+    400016: Curve Wing.003
+    400018: Curve Wing.004
+    400020: Fore-Bridge.001
+    400022: hull.hangar.001
+    400024: hull.large.001
+    400026: hull.large.002
+    400028: hull.long.001
+    400030: lifePreserver.001
+    400032: lifePreserver.002
+    400034: lifePreserver.003
+    400036: lifePreserver.004
+    400038: Trap-Engine.001
+    400040: Trap-Engine.002
+    2100000: Flat
+    2100002: Glow
+    2100004: Glass
+    2300000: Big Gun.001
+    2300002: Big Gun.002
+    2300004: Big Gun.003
+    2300006: Bridge-1.002
+    2300008: Build-up Block.001
+    2300010: Curve Wing.001
+    2300012: Curve Wing.002
+    2300014: Curve Wing.003
+    2300016: Curve Wing.004
+    2300018: Fore-Bridge.001
+    2300020: hull.hangar.001
+    2300022: hull.large.001
+    2300024: hull.large.002
+    2300026: hull.long.001
+    2300028: lifePreserver.001
+    2300030: lifePreserver.002
+    2300032: lifePreserver.003
+    2300034: lifePreserver.004
+    2300036: Trap-Engine.001
+    2300038: Trap-Engine.002
+    3300000: Big Gun.001
+    3300002: Big Gun.002
+    3300004: Big Gun.003
+    3300006: Bridge-1.002
+    3300008: Build-up Block.001
+    3300010: Curve Wing.001
+    3300012: Curve Wing.002
+    3300014: Curve Wing.003
+    3300016: Curve Wing.004
+    3300018: Fore-Bridge.001
+    3300020: hull.hangar.001
+    3300022: hull.large.001
+    3300024: hull.large.002
+    3300026: hull.long.001
+    3300028: lifePreserver.001
+    3300030: lifePreserver.002
+    3300032: lifePreserver.003
+    3300034: lifePreserver.004
+    3300036: Trap-Engine.001
+    3300038: Trap-Engine.002
+    4300000: lifePreserver.004
+    4300002: lifePreserver.003
+    4300004: lifePreserver.002
+    4300006: lifePreserver.001
+    4300008: Big Gun.003
+    4300010: Big Gun.002
+    4300012: Big Gun.001
+    4300014: Trap-Engine.002
+    4300016: Trap-Engine.001
+    4300018: Curve Wing.004
+    4300020: Curve Wing.003
+    4300022: Curve Wing.002
+    4300024: Curve Wing.001
+    4300026: hull.long.001
+    4300028: hull.large.002
+    4300030: Bridge-1.002
+    4300032: Build-up Block.001
+    4300034: Fore-Bridge.001
+    4300036: hull.hangar.001
+    4300038: hull.large.001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

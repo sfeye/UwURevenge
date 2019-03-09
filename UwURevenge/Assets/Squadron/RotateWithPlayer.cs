@@ -7,7 +7,7 @@ public class RotateWithPlayer : MonoBehaviour {
 	public Transform target;
 	public float rotationSpeed;
 	void Start () {
-		
+		target = SpawnPlayerManager.instance.prefabToSpawn.transform;
 	}
 	
 	void Update () {

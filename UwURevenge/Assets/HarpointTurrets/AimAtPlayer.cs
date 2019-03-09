@@ -17,6 +17,7 @@ public class AimAtPlayer : MonoBehaviour {
 
 	void Start () {
 		timeToFire = 1/roundsPerSecond;
+		target = SpawnPlayerManager.instance.prefabToSpawn.transform;
 	}
 	
 	void Update()
