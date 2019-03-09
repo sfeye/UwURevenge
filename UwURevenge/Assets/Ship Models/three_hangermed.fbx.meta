@@ -1,0 +1,259 @@
+fileFormatVersion: 2
+guid: b93eb95cea9df93479a09740fd5e6625
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Anti-Air-station.001
+    100002: Anti-Air-station.002
+    100004: Anti-Air-station.003
+    100006: Anti-Air-station.004
+    100008: Anti-Air-station.005
+    100010: Anti-Air-station.006
+    100012: Anti-Air-station.007
+    100014: Anti-Air-station.008
+    100016: Bridge-1.002
+    100018: eleBridge.001
+    100020: eleBridge.002
+    100022: eleBridge.003
+    100024: eng.body.wide_mouth.001
+    100026: Fin Wing.002
+    100028: hardpoint.base.3x.001
+    100030: hardPoint.dev.gas.001
+    100032: hardPoint.dev.gas.002
+    100034: hull.hangar.002
+    100036: hull.hangar.003
+    100038: hull.hangar.004
+    100040: hull.tall.001
+    100042: Med Gun.001
+    100044: Med Gun.002
+    100046: Small Gun.000
+    100048: Small Gun.002
+    100050: //RootNode
+    400000: Anti-Air-station.001
+    400002: Anti-Air-station.002
+    400004: Anti-Air-station.003
+    400006: Anti-Air-station.004
+    400008: Anti-Air-station.005
+    400010: Anti-Air-station.006
+    400012: Anti-Air-station.007
+    400014: Anti-Air-station.008
+    400016: Bridge-1.002
+    400018: eleBridge.001
+    400020: eleBridge.002
+    400022: eleBridge.003
+    400024: eng.body.wide_mouth.001
+    400026: Fin Wing.002
+    400028: hardpoint.base.3x.001
+    400030: hardPoint.dev.gas.001
+    400032: hardPoint.dev.gas.002
+    400034: hull.hangar.002
+    400036: hull.hangar.003
+    400038: hull.hangar.004
+    400040: hull.tall.001
+    400042: Med Gun.001
+    400044: Med Gun.002
+    400046: Small Gun.000
+    400048: Small Gun.002
+    400050: //RootNode
+    2100000: Flat.066
+    2100002: Flat.067
+    2100004: Flat.068
+    2100006: Flat.069
+    2100008: Flat.070
+    2100010: Flat.071
+    2100012: Flat.073
+    2100014: Glass.013
+    2100016: Flat.074
+    2100018: Glass.014
+    2100020: Flat.075
+    2100022: Glass.015
+    2100024: Flat.076
+    2100026: Glass.016
+    2100028: Flat.077
+    2100030: Flat.078
+    2100032: Flat.079
+    2100034: Flat.080
+    2100036: Flat.081
+    2100038: Glass.017
+    2100040: Flat.082
+    2100042: Glass.018
+    2100044: Flat.083
+    2100046: Glass.019
+    2100048: Flat.084
+    2100050: Glass.020
+    2100052: Flat.085
+    2100054: Flat.086
+    2100056: Flat.016
+    2100058: Glass.008
+    2100060: Flat.017
+    2100062: Glass.021
+    2100064: Flat.028
+    2100066: Glass.022
+    2100068: Flat.029
+    2100070: Glass.023
+    2100072: Flat.030
+    2100074: Glass.024
+    2300000: Anti-Air-station.001
+    2300002: Anti-Air-station.002
+    2300004: Anti-Air-station.003
+    2300006: Anti-Air-station.004
+    2300008: Anti-Air-station.005
+    2300010: Anti-Air-station.006
+    2300012: Anti-Air-station.007
+    2300014: Anti-Air-station.008
+    2300016: Bridge-1.002
+    2300018: eleBridge.001
+    2300020: eleBridge.002
+    2300022: eleBridge.003
+    2300024: eng.body.wide_mouth.001
+    2300026: Fin Wing.002
+    2300028: hardpoint.base.3x.001
+    2300030: hardPoint.dev.gas.001
+    2300032: hardPoint.dev.gas.002
+    2300034: hull.hangar.002
+    2300036: hull.hangar.003
+    2300038: hull.hangar.004
+    2300040: hull.tall.001
+    2300042: Med Gun.001
+    2300044: Med Gun.002
+    2300046: Small Gun.000
+    2300048: Small Gun.002
+    3300000: Anti-Air-station.001
+    3300002: Anti-Air-station.002
+    3300004: Anti-Air-station.003
+    3300006: Anti-Air-station.004
+    3300008: Anti-Air-station.005
+    3300010: Anti-Air-station.006
+    3300012: Anti-Air-station.007
+    3300014: Anti-Air-station.008
+    3300016: Bridge-1.002
+    3300018: eleBridge.001
+    3300020: eleBridge.002
+    3300022: eleBridge.003
+    3300024: eng.body.wide_mouth.001
+    3300026: Fin Wing.002
+    3300028: hardpoint.base.3x.001
+    3300030: hardPoint.dev.gas.001
+    3300032: hardPoint.dev.gas.002
+    3300034: hull.hangar.002
+    3300036: hull.hangar.003
+    3300038: hull.hangar.004
+    3300040: hull.tall.001
+    3300042: Med Gun.001
+    3300044: Med Gun.002
+    3300046: Small Gun.000
+    3300048: Small Gun.002
+    4300000: hull.tall.001
+    4300002: eng.body.wide_mouth.001
+    4300004: Fin Wing.002
+    4300006: hull.hangar.002
+    4300008: hull.hangar.003
+    4300010: hull.hangar.004
+    4300012: eleBridge.001
+    4300014: eleBridge.002
+    4300016: eleBridge.003
+    4300018: Bridge-1.002
+    4300020: hardPoint.dev.gas.001
+    4300022: hardPoint.dev.gas.002
+    4300024: Med Gun.001
+    4300026: Med Gun.002
+    4300028: hardpoint.base.3x.001
+    4300030: Anti-Air-station.001
+    4300032: Anti-Air-station.002
+    4300034: Anti-Air-station.003
+    4300036: Small Gun.000
+    4300038: Small Gun.002
+    4300040: Anti-Air-station.004
+    4300042: Anti-Air-station.005
+    4300044: Anti-Air-station.006
+    4300046: Anti-Air-station.007
+    4300048: Anti-Air-station.008
+    7400000: Anti-Air-station.003|Anti-Air-station.003Action
+    7400002: Anti-Air-station.003|Cap EngineAction
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
