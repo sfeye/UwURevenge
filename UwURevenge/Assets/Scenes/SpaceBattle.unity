@@ -7722,6 +7722,57 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1427424828}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1439375937
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1439375939}
+  - component: {fileID: 1439375938}
+  m_Layer: 0
+  m_Name: AsteroidField
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1439375938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1439375937}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e33a634d69d82b747b66653a07d25f3b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sizeX: 2500
+  sizeY: 2500
+  sizeZ: 2500
+  density: 1000
+  rocks:
+  - {fileID: 6529143596919409042, guid: ddfdf235dbfc29340ad439896b9f1770, type: 3}
+  - {fileID: 8755598982733403634, guid: cd4770dacd0b76144bb4af0fc14ab651, type: 3}
+  - {fileID: 7591507720650916365, guid: 56ce07c82b1f75543beb675141b9fd6a, type: 3}
+--- !u!4 &1439375939
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1439375937}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 850}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 13
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1440423674
 PrefabInstance:
   m_ObjectHideFlags: 0
