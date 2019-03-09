@@ -49,7 +49,7 @@ MonoBehaviour:
   motor: {fileID: 114665216196984534}
   projectile: {fileID: 1591950275634638, guid: b25d90d440cc8c541bcc15c16c28f9c4, type: 3}
   projectilePoint: {fileID: 4401872036563206}
-  rotationEpsilon: 10
+  rotationEpsilon: 1
   roundsPerSecond: 16
   mAudio: {fileID: 0}
   laserBlast: {fileID: 0}
