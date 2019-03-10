@@ -29,7 +29,7 @@ public class CapturePoint : MonoBehaviour
 
     void IncrementCapturePoints()
     {
-        currCapture += Time.deltaTime * 10f;
+        currCapture += Time.deltaTime * 20f;
         if(currCapture >= maxCapture)
         {
             Capture();

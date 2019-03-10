@@ -10,7 +10,13 @@ public class PlayerMove : MonoBehaviour {
 	float boostSpeed;
 	// Use this for initialization
 
-	
+	void Awake()
+	{
+		if(MainMenuManager.instance.mode == 1)
+		{
+			this.enabled = false;
+		}
+	}
 	// Update is called once per frame
 	void Update () {
 		if(Input.GetKey(KeyCode.W))
