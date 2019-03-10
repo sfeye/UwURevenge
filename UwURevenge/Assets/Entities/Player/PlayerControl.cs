@@ -8,7 +8,13 @@ public class PlayerControl : MonoBehaviour {
 	public float rotationSpeed = 50.0f;
 	Vector3 rotationAxis;
 
-
+	void Awake()
+	{
+		if(MainMenuManager.instance.mode == 1)
+		{
+			this.enabled = false;
+		}
+	}
 	void Start () {
 		
 	}

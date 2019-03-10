@@ -10,11 +10,13 @@ public class CatchShip : MonoBehaviour {
 	void Start()
 	{
 		squadron = GetComponent<Squadron>();
+		Physics.IgnoreLayerCollision(LayerMask.NameToLayer("Squadron"),LayerMask.NameToLayer("Allies"));
+		Physics.IgnoreLayerCollision(LayerMask.NameToLayer("Squadron"),LayerMask.NameToLayer("Enemies"));
 	}
 
 	void OnTriggerEnter(Collider other)
 	{
-		if(other.tag == "player")
+		if(other.tag == "squadron")
 		{
 			Debug.Log(other.name);
 			GameObject shipToAdd = other.gameObject;
@@ -24,6 +26,11 @@ public class CatchShip : MonoBehaviour {
 				Debug.Log("Ship not in squadron");
 				squadron.SetOpenSlot(squadron.FindNextOpenSlot(),shipToAdd);
 				SquadronFighter temp = shipToAdd.GetComponent<SquadronFighter>();
+<<<<<<< HEAD
+=======
+				temp.RemoveNaviMesh();
+				temp.gameObject.layer = LayerMask.NameToLayer("Allies");
+>>>>>>> dev
 				for(int i = 0; i < temp.autocannonSlots.Length; i++)
 				{
 					Instantiate(autoCannon,temp.autocannonSlots[i].position,temp.autocannonSlots[i].rotation,temp.autocannonSlots[i]);

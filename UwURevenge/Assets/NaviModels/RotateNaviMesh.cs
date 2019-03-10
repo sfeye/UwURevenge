@@ -1,0 +1,15 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class RotateNaviMesh : MonoBehaviour
+{
+    public float rotationSpeed;
+
+    // Update is called once per frame
+    void Update()
+    {
+        transform.Rotate(new Vector3(0,1,0) * rotationSpeed * Time.deltaTime);
+        transform.Translate(Vector3.up*Mathf.Sin(Time.fixedTime)*.1f);
+    }
+}

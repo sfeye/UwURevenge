@@ -9,6 +9,10 @@ public class BattleshipArtillery : MonoBehaviour
     public GameObject onHitEffect;
     float timeToFire;
     float deltaTimeToFire;
+<<<<<<< HEAD
+=======
+    float laserMultiplier = 2;
+>>>>>>> dev
     
     void Start()
     {
@@ -27,6 +31,20 @@ public class BattleshipArtillery : MonoBehaviour
             timeToFire = Random.Range(5f,10f);
             deltaTimeToFire = 0;
         }
+<<<<<<< HEAD
+=======
+
+        if(laser.enabled)
+        {
+            laserMultiplier += 5f*Time.deltaTime;
+            laser.widthMultiplier = laserMultiplier;
+
+        }
+        else
+        {
+            laserMultiplier = 0f;
+        }
+>>>>>>> dev
     }
 
     Vector3 CastRay()

@@ -1,0 +1,318 @@
+fileFormatVersion: 2
+guid: 0693e4cc9bc710a41813992713d25407
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Big Gun.001
+    100002: Big Gun.002
+    100004: Bridge-1.003
+    100006: Bridge-1.004
+    100008: Bridge-1.005
+    100010: //RootNode
+    100012: hardpoint.base.nose.001
+    100014: hardpoint.base.nose.002
+    100016: hardpoint.dev.hammer.001
+    100018: hardpoint.dev.hammer.002
+    100020: hardpoint.dev.hammer.003
+    100022: hardpoint.dev.hammer.004
+    100024: hardpoint.dev.hammer.005
+    100026: hardpoint.dev.hammer.006
+    100028: hardpoint.dev.hammer.007
+    100030: hardpoint.dev.hammer.008
+    100032: hardpoint.dev.lowPro.001
+    100034: hardpoint.dev.lowPro.002
+    100036: hull.hangar.005
+    100038: hull.hangar.006
+    100040: hull.hangar.007
+    100042: hull.hangar.008
+    100044: hull.hangar.009
+    100046: hull.hangar.010
+    100048: hull.hangar.011
+    100050: hull.large.001
+    100052: hull.large.004
+    100054: Tank.001
+    100056: Tank.002
+    100058: Turret Set.006
+    100060: Turret Set.007
+    100062: Turret Set.008
+    100064: Turret Set.009
+    100066: Turret Set.010
+    100068: Turret Set.011
+    100070: Turret Set.012
+    100072: Turret Set.013
+    100074: Turret Set.014
+    400000: Big Gun.001
+    400002: Big Gun.002
+    400004: Bridge-1.003
+    400006: Bridge-1.004
+    400008: Bridge-1.005
+    400010: //RootNode
+    400012: hardpoint.base.nose.001
+    400014: hardpoint.base.nose.002
+    400016: hardpoint.dev.hammer.001
+    400018: hardpoint.dev.hammer.002
+    400020: hardpoint.dev.hammer.003
+    400022: hardpoint.dev.hammer.004
+    400024: hardpoint.dev.hammer.005
+    400026: hardpoint.dev.hammer.006
+    400028: hardpoint.dev.hammer.007
+    400030: hardpoint.dev.hammer.008
+    400032: hardpoint.dev.lowPro.001
+    400034: hardpoint.dev.lowPro.002
+    400036: hull.hangar.005
+    400038: hull.hangar.006
+    400040: hull.hangar.007
+    400042: hull.hangar.008
+    400044: hull.hangar.009
+    400046: hull.hangar.010
+    400048: hull.hangar.011
+    400050: hull.large.001
+    400052: hull.large.004
+    400054: Tank.001
+    400056: Tank.002
+    400058: Turret Set.006
+    400060: Turret Set.007
+    400062: Turret Set.008
+    400064: Turret Set.009
+    400066: Turret Set.010
+    400068: Turret Set.011
+    400070: Turret Set.012
+    400072: Turret Set.013
+    400074: Turret Set.014
+    2100000: Flat.007
+    2100002: Flat.031
+    2100004: Flat.032
+    2100006: Glass.025
+    2100008: Flat.033
+    2100010: Glass.026
+    2100012: Flat.036
+    2100014: Glass.027
+    2100016: Flat.042
+    2100018: Flat.087
+    2100020: Flat.088
+    2100022: Flat.089
+    2100024: Flat.090
+    2100026: Flat.091
+    2100028: Flat.092
+    2100030: Flat.093
+    2100032: Flat.094
+    2100034: Flat.095
+    2100036: Flat.096
+    2100038: Flat.097
+    2100040: Flat.098
+    2100042: Flat.099
+    2100044: Flat.100
+    2100046: Flat.101
+    2100048: Flat.102
+    2100050: Flat.103
+    2100052: Flat.104
+    2100054: Flat.105
+    2100056: Flat.106
+    2100058: Flat.107
+    2100060: Flat.108
+    2100062: Flat.109
+    2100064: Flat.110
+    2100066: Flat.111
+    2100068: Flat.112
+    2100070: Flat.113
+    2100072: Flat.114
+    2100074: Flat.115
+    2100076: Flat.116
+    2100078: Flat.117
+    2300000: Big Gun.001
+    2300002: Big Gun.002
+    2300004: Bridge-1.003
+    2300006: Bridge-1.004
+    2300008: Bridge-1.005
+    2300010: hardpoint.base.nose.001
+    2300012: hardpoint.base.nose.002
+    2300014: hardpoint.dev.hammer.001
+    2300016: hardpoint.dev.hammer.002
+    2300018: hardpoint.dev.hammer.003
+    2300020: hardpoint.dev.hammer.004
+    2300022: hardpoint.dev.hammer.005
+    2300024: hardpoint.dev.hammer.006
+    2300026: hardpoint.dev.hammer.007
+    2300028: hardpoint.dev.hammer.008
+    2300030: hardpoint.dev.lowPro.001
+    2300032: hardpoint.dev.lowPro.002
+    2300034: hull.hangar.005
+    2300036: hull.hangar.006
+    2300038: hull.hangar.007
+    2300040: hull.hangar.008
+    2300042: hull.hangar.009
+    2300044: hull.hangar.010
+    2300046: hull.hangar.011
+    2300048: hull.large.001
+    2300050: hull.large.004
+    2300052: Tank.001
+    2300054: Tank.002
+    2300056: Turret Set.006
+    2300058: Turret Set.007
+    2300060: Turret Set.008
+    2300062: Turret Set.009
+    2300064: Turret Set.010
+    2300066: Turret Set.011
+    2300068: Turret Set.012
+    2300070: Turret Set.013
+    2300072: Turret Set.014
+    3300000: Big Gun.001
+    3300002: Big Gun.002
+    3300004: Bridge-1.003
+    3300006: Bridge-1.004
+    3300008: Bridge-1.005
+    3300010: hardpoint.base.nose.001
+    3300012: hardpoint.base.nose.002
+    3300014: hardpoint.dev.hammer.001
+    3300016: hardpoint.dev.hammer.002
+    3300018: hardpoint.dev.hammer.003
+    3300020: hardpoint.dev.hammer.004
+    3300022: hardpoint.dev.hammer.005
+    3300024: hardpoint.dev.hammer.006
+    3300026: hardpoint.dev.hammer.007
+    3300028: hardpoint.dev.hammer.008
+    3300030: hardpoint.dev.lowPro.001
+    3300032: hardpoint.dev.lowPro.002
+    3300034: hull.hangar.005
+    3300036: hull.hangar.006
+    3300038: hull.hangar.007
+    3300040: hull.hangar.008
+    3300042: hull.hangar.009
+    3300044: hull.hangar.010
+    3300046: hull.hangar.011
+    3300048: hull.large.001
+    3300050: hull.large.004
+    3300052: Tank.001
+    3300054: Tank.002
+    3300056: Turret Set.006
+    3300058: Turret Set.007
+    3300060: Turret Set.008
+    3300062: Turret Set.009
+    3300064: Turret Set.010
+    3300066: Turret Set.011
+    3300068: Turret Set.012
+    3300070: Turret Set.013
+    3300072: Turret Set.014
+    4300000: hull.large.001
+    4300002: hull.large.004
+    4300004: Bridge-1.003
+    4300006: Bridge-1.004
+    4300008: Bridge-1.005
+    4300010: Tank.001
+    4300012: Tank.002
+    4300014: Big Gun.001
+    4300016: Big Gun.002
+    4300018: hardpoint.base.nose.001
+    4300020: hardpoint.base.nose.002
+    4300022: Turret Set.006
+    4300024: Turret Set.007
+    4300026: Turret Set.008
+    4300028: Turret Set.009
+    4300030: Turret Set.010
+    4300032: Turret Set.011
+    4300034: Turret Set.012
+    4300036: Turret Set.013
+    4300038: Turret Set.014
+    4300040: hardpoint.dev.lowPro.001
+    4300042: hardpoint.dev.lowPro.002
+    4300044: hardpoint.dev.hammer.001
+    4300046: hardpoint.dev.hammer.002
+    4300048: hardpoint.dev.hammer.003
+    4300050: hardpoint.dev.hammer.004
+    4300052: hardpoint.dev.hammer.005
+    4300054: hardpoint.dev.hammer.006
+    4300056: hardpoint.dev.hammer.007
+    4300058: hardpoint.dev.hammer.008
+    4300060: hull.hangar.005
+    4300062: hull.hangar.006
+    4300064: hull.hangar.007
+    4300066: hull.hangar.008
+    4300068: hull.hangar.009
+    4300070: hull.hangar.010
+    4300072: hull.hangar.011
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
