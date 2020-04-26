@@ -87,10 +87,21 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
+  - component: {fileID: 4530050224667202}
+  - component: {fileID: 54333084280727240}
+  - component: {fileID: 1560279955438306467}
+  - component: {fileID: 8131451029003342450}
+  - component: {fileID: 4899298633788425558}
+  m_Layer: 9
+  m_Name: TestSquad
+  m_TagString: player
+=======
   - component: {fileID: 986707786507104226}
   m_Layer: 12
   m_Name: AutocannonSlot (1)
   m_TagString: Untagged
+>>>>>>> dev
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -140,10 +151,16 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+<<<<<<< HEAD
+  - {fileID: 4970750150286350}
+  - {fileID: 7545227729011098046}
+  - {fileID: 3340813832888074319}
+=======
   - {fileID: 986707786449410018}
   - {fileID: 986707787303725555}
   - {fileID: 986707786507104226}
   - {fileID: 986707788217477566}
+>>>>>>> dev
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -163,8 +180,45 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+<<<<<<< HEAD
+--- !u!114 &1560279955438306467
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1378064979071982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f00b4d60550b4c45aac76f18510a341, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  autocannonSlots:
+  - {fileID: 7545227729011098046}
+  - {fileID: 3340813832888074319}
+--- !u!114 &8131451029003342450
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1378064979071982}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5ceb1de536aa9142820db7c5dd75b74, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  entityName: TestSquadronFighter
+  maxHealth: 50
+  currHealth: 0
+  deathEffect: {fileID: 8882434996698152162, guid: cd3e620e95d94514889f52a68661112f,
+    type: 3}
+--- !u!136 &4899298633788425558
+CapsuleCollider:
+=======
 --- !u!114 &986707787255546796
 MonoBehaviour:
+>>>>>>> dev
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -210,7 +264,11 @@ CapsuleCollider:
   m_Height: 7.64
   m_Direction: 2
   m_Center: {x: 0, y: 0, z: -0.54}
+<<<<<<< HEAD
+--- !u!1 &1844600910679242884
+=======
 --- !u!1 &986707787303725554
+>>>>>>> dev
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -218,25 +276,73 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
+<<<<<<< HEAD
+  - component: {fileID: 7545227729011098046}
+  m_Layer: 9
+=======
   - component: {fileID: 986707787303725555}
   m_Layer: 12
+>>>>>>> dev
   m_Name: AutocannonSlot
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
+--- !u!4 &7545227729011098046
+=======
 --- !u!4 &986707787303725555
+>>>>>>> dev
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1844600910679242884}
+=======
   m_GameObject: {fileID: 986707787303725554}
+>>>>>>> dev
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 1.5, y: 0, z: 5}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< HEAD
+  m_Father: {fileID: 4530050224667202}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2537767267409560978
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3340813832888074319}
+  m_Layer: 9
+  m_Name: AutocannonSlot (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3340813832888074319
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2537767267409560978}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -1.5, y: 0, z: 5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4530050224667202}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
   m_Father: {fileID: 986707787255546794}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -331,3 +437,4 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 3324090171095174000}
   m_PrefabAsset: {fileID: 0}
+>>>>>>> dev

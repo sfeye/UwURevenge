@@ -21,13 +21,16 @@ public class CatchShip : MonoBehaviour {
 			Debug.Log(other.name);
 			GameObject shipToAdd = other.gameObject;
 			
-			if(squadron.SquadronListHasEmptySlot() && !squadron.ShipAlreadyInSquadron(shipToAdd))
+			if(squadron.SquadronListHasEmptySlot() && !squadron.ShipAlreadyInSquadron(shipToAdd) && shipToAdd != SpawnPlayerManager.instance.prefabToSpawn)
 			{
 				Debug.Log("Ship not in squadron");
 				squadron.SetOpenSlot(squadron.FindNextOpenSlot(),shipToAdd);
 				SquadronFighter temp = shipToAdd.GetComponent<SquadronFighter>();
+<<<<<<< HEAD
+=======
 				temp.RemoveNaviMesh();
 				temp.gameObject.layer = LayerMask.NameToLayer("Allies");
+>>>>>>> dev
 				for(int i = 0; i < temp.autocannonSlots.Length; i++)
 				{
 					Instantiate(autoCannon,temp.autocannonSlots[i].position,temp.autocannonSlots[i].rotation,temp.autocannonSlots[i]);

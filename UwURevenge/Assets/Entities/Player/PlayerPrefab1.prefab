@@ -253,7 +253,10 @@ Transform:
   m_Children:
   - {fileID: 6501935285838002227}
   - {fileID: 7676816724963432446}
+<<<<<<< HEAD
+=======
   - {fileID: 5460587676227161989}
+>>>>>>> dev
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -301,9 +304,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 12f9f775097fc8e4284c81b50092a68c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
+  speed: 100
+=======
   maxSpeed: 125
   currSpeed: 0
   acceleration: 8
+>>>>>>> dev
 --- !u!114 &3838020221580989039
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -621,6 +628,8 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
+=======
 --- !u!1001 &5958904314505305050
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -696,3 +705,4 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 5958904314505305050}
   m_PrefabAsset: {fileID: 0}
+>>>>>>> dev
