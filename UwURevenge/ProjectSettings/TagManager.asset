@@ -5,6 +5,7 @@ TagManager:
   serializedVersion: 2
   tags:
   - player
+  - squadron
   layers:
   - Default
   - TransparentFX
@@ -16,10 +17,15 @@ TagManager:
   - 
   - PostProcessing
   - Allies
+  - Enemies
+  - Shield
+<<<<<<< HEAD
   - 
   - 
-  - 
-  - 
+=======
+  - Squadron
+  - Missile
+>>>>>>> dev
   - 
   - 
   - 
